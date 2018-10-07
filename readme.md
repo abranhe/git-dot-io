@@ -70,6 +70,12 @@ To use this service since it's owned by **Github, Inc** you will need to agree w
 | [Carlos Abraham](https://github.com/abranhe) |
 
 
+# Contributors
+
+| Name                   | Github                                       |
+| :---------------------:| :------------------------------------------: | 
+| Carlos Abraham         | [@abranhe](https://github.com/abranhe)       |
+
 ## License
 
 [The UNLICENSE](https://github.com/gitdotio/gitdotio.github.com/blob/master/license)

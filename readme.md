@@ -53,6 +53,17 @@ where you will need to set the `url=` parameter with the link created by **gitdo
 
 At this point when you type `git.io/mycool-name` that will be redirected to `your-beautiful-site.com`
 
+
+## Note ⚠️
+
+Websites won't be checked, but keep in mind to don't redirect to any abusive, racist or sexist website.
+
+To use this service since it's owned by **Github, Inc** you will need to agree with the following:
+
+- [x] Github's [Term and conditions](https://github.com/site/terms)
+- [x] Github's [Privacy](https://github.com/site/privacy)
+- [x] Github's [Security Terms](https://github.com/security)
+
 ## Who to follow?
 
 |[![Carlos Abraham Logo](https://avatars3.githubusercontent.com/u/21347264?s=50)](https://github.com/abranhe)|
@@ -63,3 +74,8 @@ At this point when you type `git.io/mycool-name` that will be redirected to `you
 ## License
 
 [The UNLICENSE](https://github.com/gitdotio/gitdotio.github.com/blob/master/license)
+
+
+<div align="center">
+  <img src="https://cdn.abranhe.com/projects/gitdotio/logo.svg" width="35px">
+</div>

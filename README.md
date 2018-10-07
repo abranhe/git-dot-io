@@ -1,6 +1,65 @@
-# How to Join ⚠️ [![GitHub forks](https://img.shields.io/github/forks/jsless/join.svg?style=social&label=Fork)](https://github.com/jsless/join/fork)
-Hi coder, we want to be a huge community of **JavaScript**
+<div align="center">
+  <img src="https://cdn.abranhe.com/projects/gitdotio/logo.svg">
+  <br>
+  <br>
+  <h2>gitdotio</h2>
+  <br>
+  <p><i>Redirect your websites using <b>git.io</b></i></p>
+</div>
 
-If you want to be part of [@JavaScript-](https://github.com/jsless) or [@JavaScript+](https://github.com/jsmore) just send us an email to join@joinjs.ga and we will send you a request to be part of our community.
+## Why?
 
-We can share Ideas, Projects and Everything related with JavaScript. Join us 🙌 !!!
+[**Git.io**](https://git.io) is a URL shortening service that will redirect to your **Github** projects. If you try to redirect to other domain out of `Github.com` (*like your website*) you won't be able to do it.
+
+So [this project](https://github.com/gitdotio/gitdotio.github.io) will help you redirect to any website using **git.io** super easy!
+
+## How to do it?
+
+- Check if [git.io/YOUR-BEAUTIFUL-LINK](https://git.io/your-beautiful-link) is avilable.
+
+![not-found](https://cdn.abranhe.com/projects/gitdotio/screenshot.png)
+
+-  Go to **[_redirects](_redirects)**.
+-  Create an **.html** file  with the name of the link you want to make.
+    
+- Inside the file you need to copy the code below and paste it on you file, change it with you content.
+
+``` html
+---
+permalink: /your-beautiful-link   <!-- The link where you want to redirect -->
+destination: http://your-beautiful-site.com
+---
+```
+
+### So is that all?
+
+> No!
+
+Now you can go to [**Git.io**](https://git.io) and copy `gitdotio.github.io/your-beautiful-link` and paste your link there and when you are done,  you will have a `git.io/random-name` that will be redirected to `your-beautiful-site.com`.
+
+**Cons**:
+
+The [**Git.io**](https://git.io) website will only offer random short URLs.
+
+## So what if I want a `mycool-name`?
+
+Well to have your custom vanity URL with **git.io** you will need to use your command line.
+
+```console
+$ curl -i https://git.io -F "url=https://gitdotio.github.io/your-beautiful-link" -F "code=mycool-name"
+```
+
+where you will need to set the `url=` parameter with the link created by **gitdotio.github.io** and `code=` with the value you'd like to set.
+
+At this point when you type `git.io/mycool-name` that will be redirected to `your-beautiful-site.com`
+
+## Who to follow?
+
+|[![Carlos Abraham Logo](https://avatars3.githubusercontent.com/u/21347264?s=50)](https://github.com/abranhe)|
+| :-: |
+| [Carlos Abraham](https://github.com/abranhe) |
+
+
+## License
+
+[The UNLICENSE](https://github.com/gitdotio/gitdotio.github.com/blob/master/license)

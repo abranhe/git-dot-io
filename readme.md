@@ -72,9 +72,10 @@ To use this service since it's owned by **Github, Inc** you will need to agree w
 
 # Contributors
 
-| Name                   | Github                                       |
-| :---------------------:| :------------------------------------------: | 
-| Carlos Abraham         | [@abranhe](https://github.com/abranhe)       |
+| Name           | Github                                             |
+| :------------: | :------------------------------------------------: |
+| Carlos Abraham | [@abranhe](https://github.com/abranhe)             |
+| Andrea Sonny   | [@andreasonny83](https://github.com/andreasonny83) |
 
 ## License
 

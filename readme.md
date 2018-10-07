@@ -78,7 +78,7 @@ To use this service since it's owned by **Github, Inc** you will need to agree w
 | Carlos                 | [@carlittoo7](https://github.com/carlittoo7)        |
 | Denis Oliveira         | [@denisolvr](https://github.com/denisolvr)          |
 | Andrea Sonny           | [@andreasonny83](https://github.com/andreasonny83)  |
-
+| Lalit Kushwah          | [@lalitkushwah](https://github.com/LalitKushwah)    |
 ## License
 
 [The UNLICENSE](https://github.com/gitdotio/gitdotio.github.com/blob/master/license)

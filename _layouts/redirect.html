@@ -1,0 +1,34 @@
+<!--
+---
+# Jekyll layout to create URL redirects
+# https://github.com/jekylltools/jekyll-redirect-layout
+# v1.7
+---
+-->
+{%- assign destination = page.destination | absolute_url -%}
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <noscript>
+      <meta http-equiv="refresh" content="0; url={{ destination }}">
+    </noscript>
+    <!--[if lt IE 9]><script type="text/javascript">var IE_fix=true;</script><![endif]-->
+    <script type="text/javascript">
+      var url = "{{ destination }}" + window.location.hash;
+      if (typeof IE_fix != "undefined") {
+        document.write("Redirecting...");
+        var referLink = document.createElement("a");
+        referLink.href = url;
+        document.body.appendChild(referLink);
+        referLink.click();
+      } else {
+        window.location.replace(url);
+      }
+    </script>
+    <title>Redirecting...</title>
+  </head>
+  <body>
+    <a href="{{ destination }}">Follow this link if you are not redirected automatically.</a>
+  </body>
+</html>

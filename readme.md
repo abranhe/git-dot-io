@@ -75,6 +75,8 @@ To use this service since it's owned by **Github, Inc** you will need to agree w
 | Name                   | Github                                       |
 | :---------------------:| :------------------------------------------: | 
 | Carlos Abraham         | [@abranhe](https://github.com/abranhe)       |
+| Denis Oliveira         | [@denisolvr](https://github.com/denisolvr)       |
+
 
 ## License
 

@@ -2,9 +2,8 @@
   <img src="https://cdn.abranhe.com/projects/gitdotio/logo.svg">
   <br>
   <br>
-  <h2>gitdotio</h2>
   <br>
-  <p><i>Redirect your websites using <b>git.io</b></i></p>
+  <p><i>Redirect to your websites using <b>git.io</b></i></p>
 </div>
 
 ## Why?
@@ -21,7 +20,7 @@ So [this project](https://github.com/gitdotio/gitdotio.github.io) will help you 
 
 -  Go to **[_redirects](_redirects)**.
 -  Create an **.html** file  with the name of the link you want to make.
-    
+
 - Inside the file you need to copy the code below and paste it on you file, change it with you content.
 
 ``` html

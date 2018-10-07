@@ -72,11 +72,12 @@ To use this service since it's owned by **Github, Inc** you will need to agree w
 
 # Contributors
 
-| Name                   | Github                                       |
-| :---------------------:| :------------------------------------------: | 
-| Carlos Abraham         | [@abranhe](https://github.com/abranhe)       |
-| Denis Oliveira         | [@denisolvr](https://github.com/denisolvr)       |
 
+| Name                   | Github                                              |
+| :---------------------:| :-------------------------------------------------: | 
+| Carlos Abraham         | [@abranhe](https://github.com/abranhe)              |
+| Carlos                 | [@carlittoo7](https://github.com/carlittoo7)        |
+| Denis Oliveira         | [@denisolvr](https://github.com/denisolvr)          |
 
 ## License
 

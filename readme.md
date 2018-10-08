@@ -74,6 +74,7 @@ To use this service since it's owned by **Github, Inc** you will need to agree w
 
 | Name                   | Github                                              |
 | :---------------------:| :-------------------------------------------------: | 
+| Kevin Adam             | [@vnxx](https://github.com/vnxx)                    |
 | Carlos Abraham         | [@abranhe](https://github.com/abranhe)              |
 | Carlos                 | [@carlittoo7](https://github.com/carlittoo7)        |
 | Denis Oliveira         | [@denisolvr](https://github.com/denisolvr)          |

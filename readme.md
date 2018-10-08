@@ -89,9 +89,7 @@ To use this service since it's owned by **Github, Inc** you will need to agree w
 |  13  | Mary Chew              | [@marychew97](https://github.com/marychew97)         |
 |  14  | Wendy Segura           | [@wendysegura](https://github.com/wendysegura)       |
 |  15  | Rameez Ahmad           | [@psycho-valker](https://github.com/psycho-valker)   |
-
-
-
+|  15  | Amiya                  | [@amiya-1998](https://github.com/amiya-1998)   |
 
 ## License
 

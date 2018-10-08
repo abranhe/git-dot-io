@@ -72,15 +72,24 @@ To use this service since it's owned by **Github, Inc** you will need to agree w
 
 # Contributors
 
-| Name                   | Github                                              |
-| :---------------------:| :-------------------------------------------------: |
-| Carlos Abraham         | [@abranhe](https://github.com/abranhe)              |
-| Jobayer Ahmed Mickey   | [@mickeyvai](https://github.com/Jobayer-Ahmed)      |
-| Kevin Adam             | [@vnxx](https://github.com/vnxx)                    |
-| Carlos                 | [@carlittoo7](https://github.com/carlittoo7)        |
-| Denis Oliveira         | [@denisolvr](https://github.com/denisolvr)          |
-| Andrea Sonny           | [@andreasonny83](https://github.com/andreasonny83)  |
-| Lalit Kushwah          | [@lalitkushwah](https://github.com/LalitKushwah)    |
+|      | Name                   | Github                                               |
+| :--: | :---------------------:| :--------------------------------------------------: |
+|   1  | Carlos Abraham         | [@abranhe](https://github.com/abranhe)               |
+|   2  | Jobayer Ahmed Mickey   | [@mickeyvai](https://github.com/Jobayer-Ahmed)       |
+|   3  | Kevin Adam             | [@vnxx](https://github.com/vnxx)                     |
+|   4  | Carlos                 | [@carlittoo7](https://github.com/carlittoo7)         |
+|   5  | Denis Oliveira         | [@denisolvr](https://github.com/denisolvr)           |
+|   6  | Andrea Sonny           | [@andreasonny83](https://github.com/andreasonny83)   |
+|   7  | Lalit Kushwah          | [@lalitkushwah](https://github.com/LalitKushwah)     |
+|   8  | Eric Mshen             | [@ericmshen](https://github.com/ericmshen)           |
+|   9  | Hassangamal            | [@hassangamal](https://github.com/hassangamal)       |
+|  10  | Sean Kim               | [@sungk44](https://github.com/sungk44)               |
+|  11  | Jyotsna Gupta          | [@jyotsna17gupta](https://github.com/jyotsna17gupta) |
+|  12  | MysticSeagull          | [@justinborzi](https://github.com/justinborzi)       |
+
+
+
+
 
 ## License
 

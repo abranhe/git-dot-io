@@ -86,7 +86,8 @@ To use this service since it's owned by **Github, Inc** you will need to agree w
 |  10  | Sean Kim               | [@sungk44](https://github.com/sungk44)               |
 |  11  | Jyotsna Gupta          | [@jyotsna17gupta](https://github.com/jyotsna17gupta) |
 |  12  | MysticSeagull          | [@justinborzi](https://github.com/justinborzi)       |
-|  13  | Wendy Segura           | [@wendysegura](https://github.com/wendysegura)       |
+|  13  | Mary Chew              | [@marychew97](https://github.com/marychew97)         |
+|  14  | Wendy Segura           | [@wendysegura](https://github.com/wendysegura)       |
 
 
 

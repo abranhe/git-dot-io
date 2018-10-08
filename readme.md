@@ -73,13 +73,15 @@ To use this service since it's owned by **Github, Inc** you will need to agree w
 # Contributors
 
 | Name                   | Github                                              |
-| :---------------------:| :-------------------------------------------------: | 
-| Jobayer Ahmed Mickey   | [@mickeyvai](https://github.com/Jobayer-Ahmed)      |
+| :---------------------:| :-------------------------------------------------: |
 | Carlos Abraham         | [@abranhe](https://github.com/abranhe)              |
+| Jobayer Ahmed Mickey   | [@mickeyvai](https://github.com/Jobayer-Ahmed)      |
+| Kevin Adam             | [@vnxx](https://github.com/vnxx)                    |
 | Carlos                 | [@carlittoo7](https://github.com/carlittoo7)        |
 | Denis Oliveira         | [@denisolvr](https://github.com/denisolvr)          |
 | Andrea Sonny           | [@andreasonny83](https://github.com/andreasonny83)  |
 | Lalit Kushwah          | [@lalitkushwah](https://github.com/LalitKushwah)    |
+
 ## License
 
 [The UNLICENSE](https://github.com/gitdotio/gitdotio.github.com/blob/master/license)

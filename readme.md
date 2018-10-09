@@ -91,6 +91,8 @@ To use this service since it's owned by **Github, Inc** you will need to agree w
 |  15  | Rameez Ahmad           | [@psycho-valker](https://github.com/psycho-valker)   |
 |  15  | Amiya                  | [@amiya-1998](https://github.com/amiya-1998)         |
 |  16  | Jefferson Neves        | [@jeffersonrpn](https://github.com/jeffersonrpn)     |
+|  17  | Jefferson Neves        | [@jeffersonrpn](https://github.com/jeffersonrpn)     |
+|  18  | Stephanie Velazquez    | [@svelazquez](https://github.com/svelazquez)         |
 
 
 ## License

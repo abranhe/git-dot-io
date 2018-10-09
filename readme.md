@@ -72,28 +72,31 @@ To use this service since it's owned by **Github, Inc** you will need to agree w
 
 # Contributors
 
-|      | Name                   | Github                                               |
-| :--: | :---------------------:| :--------------------------------------------------: |
-|   1  | Carlos Abraham         | [@abranhe](https://github.com/abranhe)               |
-|   2  | Jobayer Ahmed Mickey   | [@mickeyvai](https://github.com/Jobayer-Ahmed)       |
-|   3  | Kevin Adam             | [@vnxx](https://github.com/vnxx)                     |
-|   4  | Carlos                 | [@carlittoo7](https://github.com/carlittoo7)         |
-|   5  | Denis Oliveira         | [@denisolvr](https://github.com/denisolvr)           |
-|   6  | Andrea Sonny           | [@andreasonny83](https://github.com/andreasonny83)   |
-|   7  | Lalit Kushwah          | [@lalitkushwah](https://github.com/LalitKushwah)     |
-|   8  | Eric Mshen             | [@ericmshen](https://github.com/ericmshen)           |
-|   9  | Hassangamal            | [@hassangamal](https://github.com/hassangamal)       |
-|  10  | Sean Kim               | [@sungk44](https://github.com/sungk44)               |
-|  11  | Jyotsna Gupta          | [@jyotsna17gupta](https://github.com/jyotsna17gupta) |
-|  12  | MysticSeagull          | [@justinborzi](https://github.com/justinborzi)       |
-|  13  | Mary Chew              | [@marychew97](https://github.com/marychew97)         |
-|  14  | Wendy Segura           | [@wendysegura](https://github.com/wendysegura)       |
-|  15  | Rameez Ahmad           | [@psycho-valker](https://github.com/psycho-valker)   |
-|  15  | Amiya                  | [@amiya-1998](https://github.com/amiya-1998)         |
-|  16  | Jefferson Neves        | [@jeffersonrpn](https://github.com/jeffersonrpn)     |
-|  17  | Jefferson Neves        | [@jeffersonrpn](https://github.com/jeffersonrpn)     |
-|  18  | Stephanie Velazquez    | [@svelazquez](https://github.com/svelazquez)  
-|  18  | Sooryanarayanan B    | [@mesooryanarayananb](https://github.com/mesooryanarayananb)  |
+|      | Name                   | Github                                                       |
+| :--: | :---------------------:| :----------------------------------------------------------: |
+|   1  | Carlos Abraham         | [@abranhe](https://github.com/abranhe)                       |
+|   2  | Jobayer Ahmed Mickey   | [@mickeyvai](https://github.com/Jobayer-Ahmed)               |
+|   3  | Kevin Adam             | [@vnxx](https://github.com/vnxx)                             |
+|   4  | Carlos                 | [@carlittoo7](https://github.com/carlittoo7)                 |
+|   5  | Denis Oliveira         | [@denisolvr](https://github.com/denisolvr)                   |
+|   6  | Andrea Sonny           | [@andreasonny83](https://github.com/andreasonny83)           |
+|   7  | Lalit Kushwah          | [@lalitkushwah](https://github.com/LalitKushwah)             |
+|   8  | Eric Mshen             | [@ericmshen](https://github.com/ericmshen)                   |
+|   9  | Hassangamal            | [@hassangamal](https://github.com/hassangamal)               |
+|  10  | Sean Kim               | [@sungk44](https://github.com/sungk44)                       |
+|  11  | Jyotsna Gupta          | [@jyotsna17gupta](https://github.com/jyotsna17gupta)         |
+|  12  | MysticSeagull          | [@justinborzi](https://github.com/justinborzi)               |
+|  13  | Mary Chew              | [@marychew97](https://github.com/marychew97)                 |
+|  14  | Wendy Segura           | [@wendysegura](https://github.com/wendysegura)               |
+|  15  | Rameez Ahmad           | [@psycho-valker](https://github.com/psycho-valker)           |
+|  15  | Amiya                  | [@amiya-1998](https://github.com/amiya-1998)                 |
+|  16  | Jefferson Neves        | [@jeffersonrpn](https://github.com/jeffersonrpn)             |
+|  17  | Jefferson Neves        | [@jeffersonrpn](https://github.com/jeffersonrpn)             |
+|  18  | Stephanie Velazquez    | [@svelazquez](https://github.com/svelazquez)                 |
+|  19  | Sooryanarayanan B      | [@mesooryanarayananb](https://github.com/mesooryanarayananb) |
+|  20  | Phenonamal             | [@phenonamal](https://github.com/phenonamal)                 |
+|  21  | Samuel Requena         | [@svelazquez](https://github.com/sami286)                    |
+|  22  | Ozlop                  | [@ozlop](https://github.com/ ozlop)                          |
 
 
 ## License

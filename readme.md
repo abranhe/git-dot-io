@@ -96,7 +96,7 @@ To use this service since it's owned by **Github, Inc** you will need to agree w
 |  19  | Sooryanarayanan B      | [@mesooryanarayananb](https://github.com/mesooryanarayananb) |
 |  20  | Phenonamal             | [@phenonamal](https://github.com/phenonamal)                 |
 |  21  | Samuel Requena         | [@svelazquez](https://github.com/sami286)                    |
-|  22  | Ozlop                  | [@ozlop](https://github.com/ ozlop)                          |
+|  22  | Ozlop                  | [@ozlop](https://github.com/ozlop)                           |
 
 
 ## License

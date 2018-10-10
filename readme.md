@@ -100,6 +100,7 @@ To use this service since it's owned by **Github, Inc** you will need to agree w
 |  23  | Gasta                  | [@gcoria](https://github.com/gcoria)                         |
 |  24  | Anantha Vijay          | [@ananthavijay](https://github.com/ananthavijay)             |
 |  25  | Ravi Gupta             | [@guptaravi540](https://github.com/@guptaravi540)            |
+|  26  | Jacob Proffer          | [@jacobproffer](https://github.com/jacobproffer)             |
 
 
 ## License

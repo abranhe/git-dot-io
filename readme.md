@@ -97,7 +97,11 @@ To use this service since it's owned by **Github, Inc** you will need to agree w
 |  20  | Phenonamal             | [@phenonamal](https://github.com/phenonamal)                 |
 |  21  | Samuel Requena         | [@svelazquez](https://github.com/sami286)                    |
 |  22  | Ozlop                  | [@ozlop](https://github.com/ozlop)                           |
-|  23  | Braunson               | [@braunson](https://github.com/braunson)                     |
+|  23  | Gasta                  | [@gcoria](https://github.com/gcoria)                         |
+|  24  | Anantha Vijay          | [@ananthavijay](https://github.com/ananthavijay)             |
+|  25  | Ravi Gupta             | [@guptaravi540](https://github.com/@guptaravi540)            |
+|  26  | Jacob Proffer          | [@jacobproffer](https://github.com/jacobproffer)             |
+|  27  | Braunson               | [@braunson](https://github.com/braunson)                     |
 
 
 ## License

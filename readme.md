@@ -110,6 +110,7 @@ To use this service since it's owned by **Github, Inc** you will need to agree w
 |  33  | Alin Migea             | [@alinmigea](https://github.com/alinmigea)                   |
 |  34  | swaager                | [@swaager](https://github.com/swaager)                       |
 |  35  | Gabriel                | [@gabrielcaballero](https://github.com/gabrielcaballero)     |
+|  36  | NickJansenCode         | [@NickJansenCode](https://github.com/NickJansenCode)         |
 
 ## License
 

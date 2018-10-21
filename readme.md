@@ -102,8 +102,11 @@ To use this service since it's owned by **Github, Inc** you will need to agree w
 |  25  | Ravi Gupta             | [@guptaravi540](https://github.com/@guptaravi540)            |
 |  26  | Jacob Proffer          | [@jacobproffer](https://github.com/jacobproffer)             |
 |  27  | Braunson               | [@braunson](https://github.com/braunson)                     |
-|  28  | Himashmy               | [@HimaBen](https://github.com/HimaBen)                       |
-
+|  28  | Izamglima              | [@izamglima](https://github.com/izamglima)                   |
+|  29  | MsWebGirl              | [@mswebgirl](https://github.com/mswebgirl)                   |
+|  30  | Ken Kelly              | [@kenhkelly](https://github.com/kenhkelly)                   |
+|  31  | Pankaj                 | [@erpankaj182](https://github.com/erpankaj182)               |
+|  32  | Himashmy               | [@HimaBen](https://github.com/HimaBen)                       |
 
 ## License
 

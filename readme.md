@@ -107,6 +107,7 @@ To use this service since it's owned by **Github, Inc** you will need to agree w
 |  30  | Ken Kelly              | [@kenhkelly](https://github.com/kenhkelly)                   |
 |  31  | Pankaj                 | [@erpankaj182](https://github.com/erpankaj182)               |
 |  32  | Dr-Wolf-ML             | [@Dr-Wolf-ML](https://github.com/Dr-Wolf-ML)                 |
+|  33  | Alin Migea             | [@alinmigea](https://github.com/alinmigea)                   |
 
 ## License
 

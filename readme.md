@@ -111,6 +111,7 @@ To use this service since it's owned by **Github, Inc** you will need to agree w
 |  34  | swaager                | [@swaager](https://github.com/swaager)                       |
 |  35  | Gabriel                | [@gabrielcaballero](https://github.com/gabrielcaballero)     |
 |  36  | NickJansenCode         | [@NickJansenCode](https://github.com/NickJansenCode)         |
+|  37  | Peter Cruckshank         | [@PeterCr](https://github.com/PeterCr)         |
 
 ## License
 

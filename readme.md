@@ -114,6 +114,7 @@ To use this service since it's owned by **Github, Inc** you will need to agree w
 |  37  | Peter Cruckshank       | [@PeterCr](https://github.com/PeterCr)                       |
 |  38  | Kimberly Wong          | [@kjowong](https://github.com/kjowong)                       |
 |  39  | Eduard                 | [@TigerAsH94](https://github.com/TigerAsH94)                 |
+|  40  | Brad Harrod            | [@bharrod321](https://github.com/bharrod321)                 |
 
 ## License
 

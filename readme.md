@@ -115,6 +115,7 @@ To use this service since it's owned by **Github, Inc** you will need to agree w
 |  38  | Kimberly Wong          | [@kjowong](https://github.com/kjowong)                       |
 |  39  | Eduard                 | [@TigerAsH94](https://github.com/TigerAsH94)                 |
 |  40  | Steven S.              | [@sunpech](https://github.com/sunpech)                       |
+|  41  | Muhamad Nur Hafidz     | [@muhamadhafidz](https://github.com/muhamadhafidz)           |
 ## License
 
 [The UNLICENSE](https://github.com/gitdotio/gitdotio.github.com/blob/master/license)

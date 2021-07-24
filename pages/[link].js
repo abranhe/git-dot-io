@@ -1,22 +1,38 @@
 import { useEffect } from 'react';
-import { useRouter } from 'next/router';
 import redirects from '../data/redirect';
 
-export default function Redirect() {
-  const router = useRouter();
-  const { link } = router.query;
+export async function getStaticPaths() {
+  return {
+    paths: redirects.map(({ permalink: link }) => {
+      return {
+        params: {
+          link,
+        },
+      };
+    }),
+    fallback: false,
+  };
+}
 
+export async function getStaticProps({ params }) {
+  const link = params.link.toLocaleLowerCase();
+  const redirect = redirects.find(({ permalink: p }) => p == link);
+
+  return {
+    props: {
+      url: redirect ? redirect.destination : null,
+    },
+  };
+}
+
+export default function Redirect({ url }) {
   useEffect(() => {
-    if (link && typeof link === 'string') {
-      const redirectTo = redirects.find(
-        ({ permalink }) => permalink == link.toLocaleLowerCase(),
-      );
-
-      window.location.href = redirectTo ? redirectTo.destination : '/';
+    if (url) {
+      window.location.href = url;
     }
 
     return () => {};
-  }, [link]);
+  }, [url]);
 
   return null;
 }

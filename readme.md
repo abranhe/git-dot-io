@@ -25,7 +25,7 @@ So [this project](https://github.com/gitdotio/gitdotio.github.io) will help you 
 
 ``` html
 ---
-permalink: /your-beautiful-link   <!-- The link where you want to redirect -->
+permalink: /your-beautiful-link
 destination: http://your-beautiful-site.com
 ---
 ```

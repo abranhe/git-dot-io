@@ -2,7 +2,8 @@ import { useEffect } from 'react';
 
 export default function NotFoound() {
   useEffect(() => {
-    window.location.href = '/';
+    const [_, path] = window.location.pathname.split('/');
+    window.location.href = path;
 
     return () => {};
   }, []);

@@ -16,7 +16,7 @@ export default function Footer(props) {
                 <a
                   href="https://www.creative-tim.com"
                   className="text-white hover:text-gray-400 text-sm font-semibold py-1">
-                  GitDotIo. Not affiliated with GitHub. Inc.
+                  GitDotIo. Not affiliated with GitHub. Inc. Created by @abranhe
                 </a>
               </div>
             </div>

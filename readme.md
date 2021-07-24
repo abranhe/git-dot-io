@@ -1,3 +1,8 @@
+#### The documentation is not up to date.
+
+> To add a new redirect, you need to add it on `data/redirect.json`
+
+
 <div align="center">
   <img src="https://cdn.abranhe.com/projects/gitdotio/logo.svg">
   <br>

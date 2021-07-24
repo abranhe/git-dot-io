@@ -8,7 +8,7 @@
 
 ## Why?
 
-[**Git.io**](https://git.io) is a URL shortening service that will redirect to your **Github** projects. If you try to redirect to other domain out of `Github.com` (*like your website*) you won't be able to do it.
+[**Git.io**](https://git.io) is a URL shortening service that will redirect to your **Github** projects. If you try to redirect to other domain out of `Github.com` (_like your website_) you won't be able to do it.
 
 So [this project](https://github.com/gitdotio/gitdotio.github.io) will help you redirect to any website using **git.io** super easy!
 
@@ -18,12 +18,12 @@ So [this project](https://github.com/gitdotio/gitdotio.github.io) will help you 
 
 ![not-found](https://cdn.abranhe.com/projects/gitdotio/screenshot.png)
 
--  Go to **[_redirects](_redirects)**.
--  Create an **.html** file  with the name of the link you want to make.
+- Go to **[\_redirects](_redirects)**.
+- Create an **.html** file with the name of the link you want to make.
 
 - Inside the file you need to copy the code below and paste it on you file, change it with you content.
 
-``` html
+```html
 ---
 permalink: /your-beautiful-link   <!-- The link where you want to redirect -->
 destination: http://your-beautiful-site.com
@@ -34,7 +34,7 @@ destination: http://your-beautiful-site.com
 
 > No!
 
-Now you can go to [**Git.io**](https://git.io) and copy `gitdotio.github.io/your-beautiful-link` and paste your link there and when you are done,  you will have a `git.io/random-name` that will be redirected to `your-beautiful-site.com`.
+Now you can go to [**Git.io**](https://git.io) and copy `gitdotio.github.io/your-beautiful-link` and paste your link there and when you are done, you will have a `git.io/random-name` that will be redirected to `your-beautiful-site.com`.
 
 **Cons**:
 
@@ -52,7 +52,6 @@ where you will need to set the `url=` parameter with the link created by **gitdo
 
 At this point when you type `git.io/mycool-name` that will be redirected to `your-beautiful-site.com`
 
-
 ## Note ⚠️
 
 Websites won't be checked, but keep in mind to don't redirect to any abusive, racist or sexist website.
@@ -65,10 +64,9 @@ To use this service since it's owned by **Github, Inc** you will need to agree w
 
 ## Who to follow?
 
-|[![Carlos Abraham Logo](https://avatars3.githubusercontent.com/u/21347264?s=50)](https://github.com/abranhe)|
-| :-: |
-| [Carlos Abraham](https://github.com/abranhe) |
-
+| [![Carlos Abraham Logo](https://avatars3.githubusercontent.com/u/21347264?s=50)](https://github.com/abranhe) |
+| :----------------------------------------------------------------------------------------------------------: |
+|                                 [Carlos Abraham](https://github.com/abranhe)                                 |
 
 # Contributors
 
@@ -119,7 +117,6 @@ To use this service since it's owned by **Github, Inc** you will need to agree w
 ## License
 
 [The UNLICENSE](https://github.com/gitdotio/gitdotio.github.com/blob/master/license)
-
 
 <div align="center">
   <img src="https://cdn.abranhe.com/projects/gitdotio/logo.svg" width="35px">

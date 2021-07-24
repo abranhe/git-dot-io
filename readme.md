@@ -106,15 +106,8 @@ To use this service since it's owned by **Github, Inc** you will need to agree w
 |  29  | MsWebGirl              | [@mswebgirl](https://github.com/mswebgirl)                   |
 |  30  | Ken Kelly              | [@kenhkelly](https://github.com/kenhkelly)                   |
 |  31  | Pankaj                 | [@erpankaj182](https://github.com/erpankaj182)               |
-|  32  | Dr-Wolf-ML             | [@Dr-Wolf-ML](https://github.com/Dr-Wolf-ML)                 |
-|  33  | Alin Migea             | [@alinmigea](https://github.com/alinmigea)                   |
-|  34  | swaager                | [@swaager](https://github.com/swaager)                       |
-|  35  | Gabriel                | [@gabrielcaballero](https://github.com/gabrielcaballero)     |
-|  36  | NickJansenCode         | [@NickJansenCode](https://github.com/NickJansenCode)         |
-|  37  | Peter Cruckshank       | [@PeterCr](https://github.com/PeterCr)                       |
-|  38  | Kimberly Wong          | [@kjowong](https://github.com/kjowong)                       |
-|  39  | Eduard                 | [@TigerAsH94](https://github.com/TigerAsH94)                 |
-|  40  | Steven S.              | [@sunpech](https://github.com/sunpech)                       |
+|  32  | Himashmy               | [@HimaBen](https://github.com/HimaBen)                       |
+
 ## License
 
 [The UNLICENSE](https://github.com/gitdotio/gitdotio.github.com/blob/master/license)
